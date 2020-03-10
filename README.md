@@ -32,6 +32,7 @@ To complete this study, collaborators should run scripts for ACCOMPLISH, PROVE-I
 <li>server. Enter the name of the server.</li>
 </ol>
 <li>Run the trial by highlighting all of the code between “Creating Output Structure” and the end of the .R script and clicking the ‘Run’ button in the upper right-hand corner of the console.</li>
+</ol>
 <li>If you'd like to contribute to our network study, after all four trials have been run, zip the results folder, ‘Studies/Results_To_Share’ and email it to the study coordinator, Amelia J. Averitt at aja2149@cumc.columbia.edu</li>
 
 
